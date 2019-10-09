@@ -1,10 +1,6 @@
-@jeffin 
-
-// Preparing tut
-
-
-// This file is empty he will create it lates,
-//
-//
-// Thanks for visiting :)
-
+import java.util.*;
+class Kevin{
+public static void main(String args[]){
+System.out.println("happy learning");
+}
+}

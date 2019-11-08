@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"jose thomas ";
-cout<<"UR16cs041";
+cout<<"kevingodfrey";
+cout<<"ur16cs200";
 return 0;
 }
